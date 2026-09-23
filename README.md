@@ -1,5 +1,4 @@
 # SWYNEX-Data-Cleaning-Preparation
-# SWYNEX-Data-Cleaning-Preparation
 
 ## Overview
 This repository contains the completed **Task 1: Data Cleaning & Preparation** for the SWYNEX Technologies internship. The objective of this project is to process a raw, messy public dataset across three different tools—**Python**, **SQL**, and **Excel**—and transform it into a clean, reliable, and analysis-ready format.
